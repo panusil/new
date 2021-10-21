@@ -1,3 +1,4 @@
 The job of QA Software tester is basically to identify the bugs in the software.
 Bugs are the problem identified by the QA during software testing process. Where as defects are the problem identified by the user after the software is release for implementation.
 QA softer testing
+job is really analytical
